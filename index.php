@@ -75,6 +75,6 @@ if($_SERVER['REQUEST_METHOD'] === 'POST'){
 
 <?php require_once __DIR__ . '/components/modal/modalExcluir.php'; ?>
 
-<script src ="assets/js/modal.js"></script>
+<script src ="assets/js/main.js"></script>
 </body>
 </html>
